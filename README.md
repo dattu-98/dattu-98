@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dattatreya Thunuguntla</h1>
-<h3 align="center">A Mechanical Engineer by profession but a Data Science & Analytics Enthusiast too!</h3>
+<h3 align="center">Mechanical engineer by profession, but also keen on data science and analytics!</h3>
 
 - 🌱 I’m currently learning **Data Science**
 
