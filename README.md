@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dattatreya Thunuguntla</h1>
 <h3 align="center">Mechanical engineer by profession, but also keen on data science and analytics!</h3>
 
+- 🏫 I'm pursuing my M.Tech from **NIT Jaipur**
 - 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **dattuthunuguntla@gmail.com**
